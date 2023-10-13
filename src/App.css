@@ -1,0 +1,148 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,200&display=swap');
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  overflow-y: scroll;
+}
+.logo {
+  margin-left: 20px;
+  padding: 0;
+  margin-top: 10px;
+}
+.options ul {
+  list-style: none;
+  margin: 0;
+  padding-left:15px;
+}
+.row {
+  background-color: white;
+}
+.logo-name {
+  display: inline;
+}
+.top-bar {
+  display: flex;
+  justify-content:left;
+}
+.menu {
+  margin-top: 13px;
+  margin-left: 22px;
+}
+.logo sup {
+  font-size: 9px;
+  padding-bottom: 2px;
+}
+.logo-name {
+  margin-left: 20px;
+}
+.highlight {
+  padding: 0px 0px 5px 5px;
+  margin-bottom: 5px ;
+  margin-left: 5px;
+}
+.highlight:hover {
+  border:none;
+  border-radius: 6px;
+  background-color: #AAA;
+  width: 100%;
+} 
+.nav {
+  overflow-y: auto;
+}
+p {
+  font-size: 13px;
+}
+.col-md-3
+{
+    background-color: blue;
+}
+.col-md-4
+{
+    padding: 5px;
+    margin-left: 40px;
+    
+}
+.col-md-8
+{
+  background-color: yellowgreen;
+  font-size: 1px;
+}
+.hs{
+    color: red;
+} */
+
+/* .root {
+  background-color: grey;
+}
+
+.first {
+  background-color: white;
+  position: sticky;
+}
+
+.logo {
+  margin-top: -4px;
+  margin-left: 50px;
+}
+.input {
+  width: 530px;
+  height: 40px;
+  border: none;
+  border-radius: 15px;
+  background-color: aliceblue;
+}
+
+input::placeholder {
+  font-size: 18px;
+}
+.search-div {
+  padding-left: 13px;
+  padding-bottom: 3px;
+  margin-top: 15px;
+  background-color: aliceblue;
+  border-radius: 8px;
+}
+.logo-div {
+  margin-top: 22px;
+}
+.logo-text {
+  margin-left: 15px;
+  letter-spacing: 0.3px;
+  font-size: 18px;
+}
+.icon {
+  margin-top: -4px;
+}
+
+.middle {
+  padding-top: 20px;
+  margin: 10px;
+  background-color: white;
+} */
+
+.head{
+  
+  height: 50px;
+
+}
+.span{
+  padding-left: 60px; ;
+}
+.search{
+  width: 300px;
+}
+.searchbar{
+  padding-top: 10px;
+  padding-left:   10px;
+}
+.icon{
+  padding-top: 10px;
+  
+}
+.cat{
+  padding-top: 30px;
+  height: 185px;
+}
+.logo{
+  padding-top: 10px;
+}

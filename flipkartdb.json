@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "productId": "11",
+      "title": "phone",
+      "brand": "apple",
+      "price": "50000",
+      "des": "smart features",
+      "imgurl": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/72ec95ea3c99ee60.png?q=100",
+      "id": 2
+    },
+    {
+      "productId": "11",
+      "title": "phone",
+      "brand": "apple",
+      "price": "50000",
+      "des": "smart features",
+      "imgurl": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/72ec95ea3c99ee60.png?q=100",
+      "id": 3
+    },
+    {
+      "productId": "123456789",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "123456789",
+      "des": "smart features",
+      "imgurl": "https://rukminim1.flixcart.com/fk-p-flap/80/80/image/72ec95ea3c99ee60.png?q=100",
+      "id": 4
+    }
+  ]
+}
